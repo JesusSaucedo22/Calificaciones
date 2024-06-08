@@ -1,0 +1,10 @@
+﻿16
+Juan Perez, 12, 8.5
+Ana Gomez, 14, 7.2
+Luis Martinez, 16, 9.0
+Maria Rodriguez, 10, 6.5
+Pedro Sanchez, 13, 7.0
+Laura Fernandez, 15, 9.5
+Carlos Lopez, 9, 5.0
+Jose Diaz, 8, 6.0
+Marta Suarez, 16, 8.0
