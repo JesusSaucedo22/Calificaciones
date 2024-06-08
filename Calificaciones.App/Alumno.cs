@@ -18,6 +18,7 @@ namespace Calificaciones.App
 
         public Alumno(string nombre, int asistencias, double nota, int totalClases)
         {
+
             this.Nombre = nombre;
             this.Asistencias = asistencias;
             this.Nota = nota;
